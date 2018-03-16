@@ -1,1 +1,1 @@
-Naive Bayse Classifier
+Naive Bayes Classifier
