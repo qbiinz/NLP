@@ -13,8 +13,8 @@ cfggen.pl is a perl script that generates sentences bacsed on the sets of gramma
 
 # example:
 
-./cfggen.pl --text <N> grammar1 lexicon
+./cfggen.pl --text &lt;N&gt; grammar1 lexicon
   
   --text is a flag for pretty printing the output
   
-  <N> is the number of sentences to be generated
+  &lt;N&gt; is the number of sentences to be generated
